@@ -1,0 +1,54 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace / build output
+/bin
+/dist
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+
+# Dependency directories (if using vendoring)
+/vendor
+
+# Go module cache (optional, but usually excluded)
+/pkg
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test coverage files
+*.cover
+*.coverprofile
+coverage.txt
+coverage.html
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment / config files
+.env
+.env.local
+*.local
+
+# Debug binaries (if you have custom debug builds)
+__debug_bin
+debug
