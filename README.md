@@ -1,1 +1,1 @@
-"# go_playground" 
+A repository I use for learning Go language.
